@@ -1,6 +1,6 @@
-# confx
+# statusx
 
-middlewares configurations(WIP)
+a enhanced http status
 
 [![codecov](https://codecov.io/gh/xoctopus/statusx/graph/badge.svg?token=qUcYFOFZQB)](https://codecov.io/gh/xoctopus/statusx)
 [![Go Report Card](https://goreportcard.com/badge/github.com/xoctopus/statusx)](https://goreportcard.com/report/github.com/xoctopus/statusx)
